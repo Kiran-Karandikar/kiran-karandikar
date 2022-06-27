@@ -6,8 +6,9 @@
 </div>
 <br />
 <div>
+    <p>✨ Currently a Software Developer Intern at <a href="https://www.bmiaudit.com/"> BMI audit services.</a></p>
     <p>👩🏽‍💻 Current Masters's student in Computer science at <a href="https://luddy.indiana.edu/" target="_blank">@Indiana University Bloomington.</a></p>
-    <p>📁 Currently learning world of data science, machine learning, artificial intelligence</p>
+    <p>📁 Currently learning world of data science, machine learning, artificial intelligence.</p>
     <p>🌲 5 years of work experience as a software engineer, coupled with expertise in Data Engineering.</p>
     <p>📫 Looking to network and meet other developers to make connections and to grow my network. **khkarandikar [at] gmail [dot] com**</p>    
     <div> 
@@ -40,7 +41,7 @@
 
 
 <h3>Software Tools</h3>
-<span><img src="https://img.shields.io/badge/Pycharm-23E10098?style=for-the-badge&logo=PyCharm&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Pycharm-yellow?style=for-the-badge&logo=PyCharm&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></span>
