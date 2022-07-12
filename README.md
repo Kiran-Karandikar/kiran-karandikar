@@ -3,6 +3,7 @@
 <div align="center">
   <a href="https://kiran-karandikar.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-6762A6?style=for-the-badge&logoColor=white alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/kiran-karandikar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Kiran-Karandikar" target="_blank"><img src="https://komarev.com/ghpvc/?username=kiran-karandikar&style=for-the-badge&color=234524" alt="Github_home" /></a>
 </div>
 <br />
 <div>
@@ -87,6 +88,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kiran-karandikar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-karandikar&langs_count=5&theme=tokyonight)]()
+
+<!-- Profile Tracker -->
+<!-- https://yhype.me/github/profile-views -->
+
+[![](https://hit.yhype.me/github/profile?user_id=38068652)]()
 
 ---
 [personalwebsite]: https://kiran-karandikar.github.io
