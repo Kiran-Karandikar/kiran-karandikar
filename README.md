@@ -94,6 +94,8 @@
 
 [![](https://hit.yhype.me/github/profile?user_id=38068652)]()
 
+<a href="https://skyline.github.com/kiran-karandikar/2021" title="2021 GitHub Skyline"><img src="assets/skyline.jpg" alt="2021 GitHub Skyline" width="50%" /></a>
+
 ---
 [personalwebsite]: https://kiran-karandikar.github.io
 [iub]: https://luddy.indiana.edu/
