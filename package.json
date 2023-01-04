@@ -1,22 +1,67 @@
 {
+  "type": "module",
   "name": "kiran-karandikar",
   "version": "1.0.0",
-  "description": "Autoupdate readme",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install",
+    "lint": "eslint ./",
+    "lint-fix": "eslint ./ --fix",
+    "prettier": "prettier --list-different \"**/*.{js,jsx,json,md,css,mustache}\"",
+    "format": "prettier --write \"**/*.{js,jsx,json,md,css}\"",
+    "pre-commit": "npm run format && npm run lint-fix",
+    "pre-push": "npm run pre-commit"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kiran-Karandikar/kiran-karandikar.git"
   },
-  "author": "",
+  "author": "Kiran Karandikar",
   "license": "ISC",
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
   "bugs": {
     "url": "https://github.com/Kiran-Karandikar/kiran-karandikar/issues"
   },
   "homepage": "https://github.com/Kiran-Karandikar/kiran-karandikar#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "mustache": "^4.2.0",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.7",
+    "@babel/eslint-parser": "^7.19.1",
+    "@babel/preset-env": "^7.20.2",
+    "babel-plugin-styled-components": "^2.0.7",
+    "eslint": "^8.31.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-n": "^15.6.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.0",
+    "prettier": "^2.8.1",
+    "pretty-quick": "^3.1.3"
+  },
+  "lint-staged": {
+    "*.{js,ts,jsx,tsx}": "eslint --fix"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged && pretty-quick --staged"
+    }
   }
 }

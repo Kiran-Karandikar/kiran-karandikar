@@ -3,22 +3,13 @@
     "browser": true,
     "es2021": true
   },
-  "extends": [
-    "eslint:recommended",
-    "plugin:react/recommended",
-    "standard",
-    "react-app",
-    "react-app/jest",
-    // "next",
-    "plugin:prettier/recommended"
-    // "next/core-web-vitals"
-  ],
+  "extends": ["eslint:recommended", "standard", "plugin:prettier/recommended"],
   "overrides": [],
   "parserOptions": {
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["prettier", "react", "react-hooks", "import"],
+  "plugins": ["prettier", "import"],
   "rules": {
     "prettier/prettier": "error",
     "react-hooks/rules-of-hooks": "error",
@@ -30,25 +21,6 @@
     "sort-imports": [
       "error",
       { "ignoreCase": true, "ignoreDeclarationSort": true }
-    ],
-    "import/order": [
-      "error",
-      {
-        "groups": ["builtin", "external", "internal", ["parent", "sibling"]],
-        "pathGroups": [
-          {
-            "pattern": "@(react|react-native)",
-            "group": "external",
-            "position": "before"
-          }
-        ],
-        "pathGroupsExcludedImportTypes": ["react"],
-        "newlines-between": "always",
-        "alphabetize": {
-          "order": "asc",
-          "caseInsensitive": true
-        }
-      }
     ]
   }
 }
