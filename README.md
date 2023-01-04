@@ -78,24 +78,32 @@
 - ?? -->
 
 ---
-
-## GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kiran-karandikar&count_private=true&theme=tokyonight&showicons=true)]()
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kiran-karandikar&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <h2 align="center">Github Trophy and Contribution Graph
   <img src="https://github-profile-trophy.vercel.app/?username=kiran-karandikar&theme=darkhub&no-frame=true" alt="Kiran-Karandikar"/>
 </h2>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-karandikar&langs_count=5&theme=tokyonight)]()
-
+<h2 align="center">〽️ STATISTICS 〽️</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <!-- S t r e a k -->
+    <a href="https://git.io/streak-stats" title="Go to Source"><img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=kiran-karandikar&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /></a>
+    <!-- Commit and Stars -->
+    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/?username=kiran-karandikar&count_private=true&theme=tokyonight&showicons=true"/>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <!-- most used language -->
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-karandikar&langs_count=5&theme=tokyonight&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
+  </div>
+</p>
 <!-- Profile Tracker -->
 <!-- https://yhype.me/github/profile-views -->
 
 [![](https://hit.yhype.me/github/profile?user_id=38068652)]()
 
----
+<hr>
+
 <p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Wednesday, January 4, 3:20 PM CST <br/>
 <p align="center">
 <img src="https://github.com/kiran-karandikar/kiran-karandikar/workflows/README%20build/badge.svg" />
