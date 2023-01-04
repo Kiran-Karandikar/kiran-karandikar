@@ -13,6 +13,7 @@ const options = {
   hour: 'numeric',
   minute: 'numeric',
   timeZoneName: 'short',
+  timeZone: 'US/Central',
 };
 
 DATA.refresh_date = now.toLocaleDateString('en-US', options);
