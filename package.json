@@ -1,0 +1,22 @@
+{
+  "name": "kiran-karandikar",
+  "version": "1.0.0",
+  "description": "Autoupdate readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiran-Karandikar/kiran-karandikar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiran-Karandikar/kiran-karandikar/issues"
+  },
+  "homepage": "https://github.com/Kiran-Karandikar/kiran-karandikar#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
