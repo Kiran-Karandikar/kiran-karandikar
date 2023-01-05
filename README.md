@@ -104,11 +104,11 @@
 <hr>
 <h2 align="center">〽️ Contribution Graph 〽️</h2>
 <div align=center>
-<img align="center" src="https://github.com/kiran-karandikar/kiran-karandikar/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution-Grid-Snake"/>
+<img align="center" src="https://github.com/kiran-karandikar/kiran-karandikar/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution-Grid-Snake"/>
 </div>
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, January 5, 2:35 PM CST <br/>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, January 5, 3:10 PM CST <br/>
 <p align="center">
 <img src="https://github.com/kiran-karandikar/kiran-karandikar/workflows/README%20build/badge.svg" />
 <img alt="Stars" src="https://img.shields.io/github/stars/kiran-karandikar/kiran-karandikar?style=for-the-badge&labelColor=343b41"/>
