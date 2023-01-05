@@ -8,7 +8,6 @@
 </div>
 <br />
 <div>
-    <p>✨ Currently a Software Developer Intern at <a href="https://www.bmiaudit.com/"> BMI audit services.</a></p>
     <p>👩🏽‍💻 Current Masters's student in Computer science at <a href="https://luddy.indiana.edu/" target="_blank">@Indiana University Bloomington.</a></p>
     <p>📁 Currently learning world of data science, machine learning, artificial intelligence.</p>
     <p>🌲 5 years of work experience as a software engineer, coupled with expertise in Data Engineering.</p>
@@ -103,8 +102,11 @@
 [![](https://hit.yhype.me/github/profile?user_id=38068652)]()
 
 <hr>
+<hr>
 
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Wednesday, January 4, 3:20 PM CST <br/>
+![Snake animation](https://github.com/kiran-karandikar/kiran-karandikar/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, January 5, 2:12 PM CST <br/>
 <p align="center">
 <img src="https://github.com/kiran-karandikar/kiran-karandikar/workflows/README%20build/badge.svg" />
 <img alt="Stars" src="https://img.shields.io/github/stars/kiran-karandikar/kiran-karandikar?style=for-the-badge&labelColor=343b41"/>
