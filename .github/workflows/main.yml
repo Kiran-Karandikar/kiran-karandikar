@@ -28,7 +28,7 @@ jobs:
         with:
           github_user_name: kiran-karandikar
           gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
 
       # dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       # show the status of the build. Makes it easier for debugging (if there's any issues).
