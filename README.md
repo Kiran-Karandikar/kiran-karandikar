@@ -102,9 +102,11 @@
 [![](https://hit.yhype.me/github/profile?user_id=38068652)]()
 
 <hr>
-<hr>
 
-![Snake animation](https://github.com/kiran-karandikar/kiran-karandikar/blob/output/github-contribution-grid-snake.svg)
+<div align=center>
+<img align="center" src="https://github.com/kiran-karandikar/kiran-karandikar/blob/output/github-contribution-grid-snake.gif" alt="Contribution-Grid-Snake"/>
+</div>
+<hr>
 
 <p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Thursday, January 5, 2:12 PM CST <br/>
 <p align="center">
