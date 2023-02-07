@@ -129,9 +129,10 @@
 </div>
 <hr>
 
-<p style="text-align: center;">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, February 7, 12:14 PM CST <br/>
+<p style="text-align: center;">This <i>README</i> file is generated <b>every day</b>!<br />Last refresh: Tuesday, February 7, 12:37 PM CST <br/>
 <p style="text-align: center;">
 <img src="https://github.com/kiran-karandikar/kiran-karandikar/workflows/README%20build/badge.svg" />
 <img src="https://api.netlify.com/api/v1/badges/9951730d-f05c-4438-b7c8-945def7bdcef/deploy-status" />
 <img alt="Stars" src="https://img.shields.io/github/stars/kiran-karandikar/kiran-karandikar?style=for-the-badge&labelColor=343b41"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/kiran-karandikar/kiran-karandikar?style=for-the-badge&labelColor=343b41"/></p>
+<img alt="Forks" src="https://img.shields.io/github/forks/kiran-karandikar/kiran-karandikar?style=for-the-badge&labelColor=343b41"/>
+</p>
