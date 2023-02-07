@@ -1,22 +1,63 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Kiran+Karandikar+%F0%9F%91%8B%F0%9F%8F%BE" alt="Typing SVG" /></a>
 
-<h3 align="center">⚡ A Nerd ⚡</h3>
+<h3 align="center">💻 A Software Enthusiast 💻</h3>
 <div align="center">
-  <a href="https://kiran-karandikar.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-6762A6?style=for-the-badge&logoColor=white alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/kiran-karandikar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Kiran-Karandikar" target="_blank"><img src="https://komarev.com/ghpvc/?username=kiran-karandikar&style=for-the-badge&color=234524" alt="Github_home" /></a>
+  <a href="https://kirankarandikar.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6762A6?style=for-the-badge&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/kiran-karandikar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Kiran-Karandikar" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=kiran-karandikar&style=for-the-badge&color=234524" alt="Github">
+  </a>
 </div>
 <br />
-<div>
-    <p>👩🏽‍💻 Current Masters's student in Computer science at <a href="https://luddy.indiana.edu/" target="_blank">@Indiana University Bloomington.</a></p>
-    <p>📁 Currently learning world of data science, machine learning, artificial intelligence.</p>
-    <p>🌲 5 years of work experience as a software engineer, coupled with expertise in Data Engineering.</p>
-    <p>📫 Looking to network and meet other developers to make connections and to grow my network. **khkarandikar [at] gmail [dot] com**</p>
-    <div>
-    <p>💖 An avid cat lover and lives by the motto <strong><em>‘Be Better than Yesterday’</em></strong>.</p>
-    <p>⚡ Fun fact:</p>
-    <blockquote> I am a human performance and nutrition nerd. If you like strength/weight training, fitness we are already best friends. We can get under the <strong>"bar"</strong> and grind reps with a long chat over nutrition, human performance and longevity.</blockquote>
+<div style="display: flex; flex-direction: column;">
+  <div style="display: flex;">
+    <p style="margin-right: 1em; font-size: 1.5em;">👩🏽‍💻</p>
+    <div style="flex: 1;">
+      <p><strong>Masters's student in Computer Science</strong></p>
+      <p style="font-size: 0.8em;">at <a href="https://luddy.indiana.edu/" target="_blank">@Indiana University Bloomington</a></p>
     </div>
+  </div>
+  <div style="display: flex;">
+    <p style="margin-right: 1em; font-size: 1.5em;">📁</p>
+    <div style="flex: 1;">
+      <p><strong>Learning the World of Data Science</strong></p>
+      <p style="font-size: 0.8em;">Machine Learning, Artificial Intelligence</p>
+    </div>
+  </div>
+  <div style="display: flex;">
+    <p style="margin-right: 1em; font-size: 1.5em;">🌲</p>
+    <div style="flex: 1;">
+      <p><strong>5 Years of Software Engineering Experience</strong></p>
+      <p style="font-size: 0.8em;">Data Engineering Expertise</p>
+    </div>
+  </div>
+  <div style="display: flex;">
+    <p style="margin-right: 1em; font-size: 1.5em;">📫</p>
+    <div style="flex: 1;">
+      <p><strong>Networking and Meeting Other Developers</strong></p>
+      <p style="font-size: 0.8em;">Email: khkarandikar@gmail.com</p>
+    </div>
+  </div>
+  <div style="display: flex;">
+    <p style="margin-right: 1em; font-size: 1.5em;">💖</p>
+    <div style="flex: 1;">
+      <p><strong>An Avid Cat Lover</strong></p>
+      <p style="font-size: 0.8em;">Lives by the motto "Be Better than Yesterday"</p>
+    </div>
+  </div>
+  <div style="display: flex;">
+    <p style="margin-right: 1em; font-size: 1.5em;">⚡</p>
+    <div style="flex: 1;">
+      <p><strong>Fun Fact</strong></p>
+      <blockquote style="font-size: 0.8em;">
+        Passionate about human performance and nutrition. If you're into strength and weight training, fitness, and longevity, we're already best friends. Let's chat about nutrition, human performance, and longevity over a good workout!
+      </blockquote>
+    </div>
+  </div>
 </div>
 
 <h2 align="Left">Toolbox</h2>
@@ -54,28 +95,6 @@
 <span><a href="mailto:khkarandikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a></span>
 <br />
 
-<!-- TODO.......... -->
-<!-- <h2 align="center">About Me</h2>
-<div align="center"><img alt="" src="" /></div> -->
-
-<!-- <h2 align="center">Interests</h2>
-
-🏫 --?
-
-- ??
-
-💻 ??
-
-- ??
-
-✨ ??
-
-- ??
-
-🌲 Animal Crossing
-
-- ?? -->
-
 ---
 <h2 align="center">Github Trophy and Contribution Graph
   <img src="https://github-profile-trophy.vercel.app/?username=kiran-karandikar&theme=darkhub&no-frame=true" alt="Kiran-Karandikar"/>
@@ -96,6 +115,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-karandikar&langs_count=5&theme=tokyonight&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
   </div>
 </p>
+
 <!-- Profile Tracker -->
 <!-- https://yhype.me/github/profile-views -->
 
