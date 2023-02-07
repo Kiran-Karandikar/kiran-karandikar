@@ -13,47 +13,15 @@
   </a>
 </div>
 <br />
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <div style="display: flex; margin-bottom: 1em;">
-    <p style="margin-right: 1em; font-size: 1.5em;">📁</p>
-    <div style="flex: 1;">
-      <p><strong>Master's Student in Computer Science</strong></p>
-      <p style="font-size: 0.8em;">at <a href="https://luddy.indiana.edu/" target="_blank">Indiana University Bloomington</a></p>
-    </div>
-  </div>
 
-  <div style="display: flex; margin-bottom: 1em;">
-    <p style="margin-right: 1em; font-size: 1.5em;">🌲</p>
-    <div style="flex: 1;">
-      <p><strong>Exploring the World of Data Science</strong></p>
-      <p style="font-size: 0.8em;">Machine Learning, Artificial Intelligence</p>
-    </div>
-  </div>
-
-  <div style="display: flex; margin-bottom: 1em;">
-    <p style="margin-right: 1em; font-size: 1.5em;">💼</p>
-    <div style="flex: 1;">
-      <p><strong>5 Years of Software Engineering Experience</strong></p>
-      <p style="font-size: 0.8em;">Data Engineering Expertise</p>
-    </div>
-  </div>
-
-  <div style="display: flex; margin-bottom: 1em;">
-    <p style="margin-right: 1em; font-size: 1.5em;">📫</p>
-    <div style="flex: 1;">
-      <p><strong>Networking with Other Developers</strong></p>
-      <p style="font-size: 0.8em;">Email: <a href="mailto:khkarandikar@gmail.com">khkarandikar@gmail.com</a></p>
-    </div>
-  </div>
-
-  <div style="display: flex; margin-bottom: 1em;">
-    <p style="margin-right: 1em; font-size: 1.5em;">🐾</p>
-    <div style="flex: 1;">
-      <p><strong>Cat Enthusiast</strong></p>
-      <p style="font-size: 0.8em;">Lives by the Motto "Be Better Than Yesterday"</p>
-    </div>
-  </div>
-</div>
+<ul>
+  <li>💻 Backend developer</li>
+  <li>🔨 Enjoys working in the background to create cool things</li>
+  <li>🔜 Learning front-end with goal of becoming a full-stack developer</li>
+  <li>📚 From middle-school C programming to full-time software engineer</li>
+  <li>🔥 Passionate about all things coding and programming</li>
+  <li>🔍 Ability to zoom in and out, paying attention to detail and maintaining a system-thinking mindset</li>
+</ul>
 
 <h2 align="center">Toolbox</h2>
 <h3 align="center">Languages</h3>
@@ -129,10 +97,9 @@
 </div>
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every day</b>!<br />Last refresh: Tuesday, February 7 at 12:41 PM CST <br/>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, February 7, 12:14 PM CST <br/>
 <p align="center">
 <img src="https://github.com/kiran-karandikar/kiran-karandikar/workflows/README%20build/badge.svg" />
 <img src="https://api.netlify.com/api/v1/badges/9951730d-f05c-4438-b7c8-945def7bdcef/deploy-status" />
 <img alt="Stars" src="https://img.shields.io/github/stars/kiran-karandikar/kiran-karandikar?style=for-the-badge&labelColor=343b41"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/kiran-karandikar/kiran-karandikar?style=for-the-badge&labelColor=343b41"/>
-</p>
+<img alt="Forks" src="https://img.shields.io/github/forks/kiran-karandikar/kiran-karandikar?style=for-the-badge&labelColor=343b41"/></p>
