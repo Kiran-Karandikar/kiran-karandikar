@@ -23,6 +23,7 @@
   <li>🔍 Ability to zoom in and out, paying attention to detail and maintaining a system-thinking mindset</li>
 </ul>
 
+
 <h2 align="center">Toolbox</h2>
 <h3 align="center">Languages</h3>
 <div align="center">
@@ -97,9 +98,10 @@
 </div>
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, February 7, 12:14 PM CST <br/>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!<br />Last refresh: Tuesday, February 7, 12:48 PM CST <br/>
 <p align="center">
 <img src="https://github.com/kiran-karandikar/kiran-karandikar/workflows/README%20build/badge.svg" />
 <img src="https://api.netlify.com/api/v1/badges/9951730d-f05c-4438-b7c8-945def7bdcef/deploy-status" />
 <img alt="Stars" src="https://img.shields.io/github/stars/kiran-karandikar/kiran-karandikar?style=for-the-badge&labelColor=343b41"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/kiran-karandikar/kiran-karandikar?style=for-the-badge&labelColor=343b41"/></p>
+<img alt="Forks" src="https://img.shields.io/github/forks/kiran-karandikar/kiran-karandikar?style=for-the-badge&labelColor=343b41"/>
+</p>
