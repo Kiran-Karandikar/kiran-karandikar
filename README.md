@@ -95,6 +95,28 @@
 <span><a href="mailto:khkarandikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a></span>
 <br />
 
+<!-- TODO.......... -->
+<!-- <h2 align="center">About Me</h2>
+<div align="center"><img alt="" src="" /></div> -->
+
+<!-- <h2 align="center">Interests</h2>
+
+🏫 --?
+
+- ??
+
+💻 ??
+
+- ??
+
+✨ ??
+
+- ??
+
+🌲 Animal Crossing
+
+- ?? -->
+
 ---
 <h2 align="center">Github Trophy and Contribution Graph
   <img src="https://github-profile-trophy.vercel.app/?username=kiran-karandikar&theme=darkhub&no-frame=true" alt="Kiran-Karandikar"/>
@@ -115,7 +137,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-karandikar&langs_count=5&theme=tokyonight&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
   </div>
 </p>
-
 <!-- Profile Tracker -->
 <!-- https://yhype.me/github/profile-views -->
 
@@ -128,7 +149,7 @@
 </div>
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, February 7, 11:11 AM CST <br/>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, February 7, 12:14 PM CST <br/>
 <p align="center">
 <img src="https://github.com/kiran-karandikar/kiran-karandikar/workflows/README%20build/badge.svg" />
 <img src="https://api.netlify.com/api/v1/badges/9951730d-f05c-4438-b7c8-945def7bdcef/deploy-status" />
