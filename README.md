@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&height=125&lines=Hi%2C+I'm+Kiran+Karandikar.;Ready+to+Make+a+Difference+!!" alt="Typing SVG" /></a>
 
+
 <h3 align="center">💻 A Software Enthusiast 💻</h3>
 <div align="center">
   <a href="https://kirankarandikar.com" target="_blank">
@@ -15,15 +16,16 @@
 <br />
 
 <div align="center">
-<ul>
-  <li>💻 Backend developer</li>
-  <li>🔨 Enjoys working in the background to create cool things</li>
-  <li>🔜 Learning front-end with goal of becoming a full-stack developer</li>
-  <li>📚 From middle-school C programming to full-time software engineer</li>
-  <li>🔥 Passionate about all things coding and programming</li>
-  <li>🔍 Ability to zoom in and out, paying attention to detail and maintaining a system-thinking mindset</li>
-</ul>
+  <ul>
+    <li>💻 Backend developer</li>
+    <li>🔨 Enjoys working in the background to create cool things</li>
+    <li>🔜 Learning front-end with goal of becoming a full-stack developer</li>
+    <li>📚 From middle-school C programming to full-time software engineer</li>
+    <li>🔥 Passionate about all things coding and programming</li>
+    <li>🔍 Ability to zoom in and out, paying attention to detail and maintaining a system-thinking mindset</li>
+  </ul>
 </div>
+
 
 <h2 align="center">Toolbox</h2>
 <h3 align="center">Languages</h3>
@@ -99,7 +101,7 @@
 </div>
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every day</b>!<br />Last refresh: Saturday, February 11, 1:08 PM CST <br/>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!<br />Last refresh: Saturday, February 11, 1:33 PM CST <br/>
 <p align="center">
 <img src="https://github.com/kiran-karandikar/kiran-karandikar/workflows/README%20build/badge.svg" />
 <img src="https://api.netlify.com/api/v1/badges/9951730d-f05c-4438-b7c8-945def7bdcef/deploy-status" />
