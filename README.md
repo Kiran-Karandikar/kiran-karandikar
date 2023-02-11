@@ -1,9 +1,3 @@
-<style>
-.ul {
-    list-style-type: none;
-}
-</style>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&height=125&lines=Hi%2C+I'm+Kiran+Karandikar.;Ready+to+Make+a+Difference+!!" alt="Typing SVG" /></a>
 
 <h3 align="center">💻 A Software Enthusiast 💻</h3>
@@ -21,7 +15,7 @@
 <br />
 
 <div align="center">
-<ul class="ul">
+<ul>
   <li>💻 Backend developer</li>
   <li>🔨 Enjoys working in the background to create cool things</li>
   <li>🔜 Learning front-end with goal of becoming a full-stack developer</li>
