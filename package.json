@@ -36,7 +36,7 @@
     "requirejs": "^2.3.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.1",
+    "@babel/core": "^7.22.5",
     "@babel/eslint-parser": "^7.21.8",
     "@babel/preset-env": "^7.22.4",
     "babel-plugin-styled-components": "^2.1.3",
