@@ -65,7 +65,7 @@
 <h2 align="center">Connect with me:</h2>
 <div align="center">
   <span><a href="https://linkedin.com/in/kiran-karandikar"><img src="https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/></a></span>
-  <span><a href="mailto:khkarandikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a></span>
+  <span><a href="mailto:connect.funnel.github@kirankarandikar.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a></span>
 </div>
 <br />
 
@@ -101,7 +101,7 @@
 </div>
 <hr>
 
-<p align="center">This <i>README</i> file is generated <b>every day</b>!<br />Last refresh: Tuesday, February 27, 6:23 PM CST <br/>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!<br />Last refresh: Tuesday, February 27, 6:26 PM CST <br/>
 <p align="center">
 <img src="https://github.com/kiran-karandikar/kiran-karandikar/workflows/README%20build/badge.svg" />
 <img src="https://api.netlify.com/api/v1/badges/9951730d-f05c-4438-b7c8-945def7bdcef/deploy-status" />
