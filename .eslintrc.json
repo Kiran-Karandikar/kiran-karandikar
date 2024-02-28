@@ -12,11 +12,6 @@
   "plugins": ["prettier", "import"],
   "rules": {
     "prettier/prettier": "error",
-    "react-hooks/rules-of-hooks": "error",
-    "react-hooks/exhaustive-deps": "warn",
-    "react/react-in-jsx-scope": 0,
-    "react/jsx-key": 0,
-    "react/prop-types": 0,
     // this is for sorting WITHIN an import
     "sort-imports": [
       "error",

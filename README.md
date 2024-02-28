@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&height=125&lines=Hi%2C+I'm+Kiran+Karandikar.;Ready+to+Make+a+Difference+!!" alt="Typing SVG" /></a>
 
-
 <h3 align="center">💻 A Software Enthusiast 💻</h3>
 <div align="center">
   <a href="https://kirankarandikar.com" target="_blank">
@@ -25,7 +24,6 @@
     <li>🔍 Ability to zoom in and out, paying attention to detail and maintaining a system-thinking mindset</li>
   </ul>
 </div>
-
 
 <h2 align="center">Toolbox</h2>
 <h3 align="center">Languages</h3>
@@ -65,11 +63,12 @@
 <h2 align="center">Connect with me:</h2>
 <div align="center">
   <span><a href="https://linkedin.com/in/kiran-karandikar"><img src="https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/></a></span>
-  <span><a href="mailto:khkarandikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a></span>
+  <span><a href="mailto:connect.funnel.github@kirankarandikar.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"/></a></span>
 </div>
 <br />
 
 ---
+
 <h2 align="center">Github Trophy and Contribution Graph
   <img src="https://github-profile-trophy.vercel.app/?username=kiran-karandikar&theme=darkhub&no-frame=true" alt="Kiran-Karandikar"/>
 </h2>
