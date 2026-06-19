@@ -33,7 +33,7 @@
   "homepage": "https://github.com/Kiran-Karandikar/kiran-karandikar#readme",
   "dependencies": {
     "mustache": "^4.2.0",
-    "requirejs": "^2.3.6"
+    "requirejs": "^2.3.7"
   },
   "devDependencies": {
     "@babel/core": "^7.22.5",
